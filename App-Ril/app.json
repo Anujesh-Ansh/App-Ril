@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "DEVember-test",
-    "slug": "DEVember-test",
-    "scheme": "devember-test",
+    "name": "App-ril",
+    "slug": "App-ril",
+    "scheme": "app-ril",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/favicon.png",

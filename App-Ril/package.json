@@ -1,5 +1,5 @@
 {
-  "name": "devember-test",
+  "name": "app-ril",
   "version": "1.0.0",
   "main": "expo-router/entry",
   "scripts": {
